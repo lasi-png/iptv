@@ -2306,8 +2306,6 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MegaVisionTV.do@SD" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="General",Megavisión TV (480p)
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 tvg-id="MelodyHits.ca@SD" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Music",Melody Hits (576p)
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVClassic.co@SD" tvg-logo="https://i.imgur.com/tLTQLnv.png" group-title="Music",Memorias TV Classic (480p) [Geo-blocked]
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="Movies",Memorias TV Film (720p) [Geo-blocked]

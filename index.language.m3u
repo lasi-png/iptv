@@ -149,8 +149,6 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd@SD" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Arabic",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
-#EXTINF:-1 tvg-id="AlAqsaTV.ps@SD" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="Arabic",Al Aqsa Channel (416p) [Not 24/7]
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="Arabic",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png" group-title="Arabic",Al Arabiya Business (1080p)
@@ -318,8 +316,6 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="Arabic",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-id="AlQanat9.tr@SD" tvg-logo="https://i.imgur.com/HC91Mho.png" group-title="Arabic",Alqanat9 TV (1080p)
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Arabic",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo@SD" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="Arabic",Altaghier TV (1080p)
@@ -365,10 +361,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="Arabic",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Bahry.kw@HD" tvg-logo="https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png" group-title="Arabic",Bahry (1080p)
-https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BayyinatTV.iq@SD" tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="Arabic",Bayyinat TV (404p)
-https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="Arabic",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Arabic",BeitolAbbas TV Channel (720p)
@@ -385,6 +377,8 @@ https://flu.systemnet.tv/CBCSofra/index.m3u8
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Ch4Teen.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Arabic",Ch4Teen
 https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Arabic",Ch4Teen Documentary (1080p)
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="Arabic",Chada TV (720p)
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="Arabic",Channel 8 Kurdish (720p)
@@ -425,8 +419,6 @@ https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 #EXTINF:-1 tvg-id="FalastiniTV.ps@SD" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Arabic",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FebruaryChannel.ly@SD" tvg-logo="https://i.imgur.com/WdMIpsA.png" group-title="Arabic",February Channel (1080p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Arabic",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FujairahTV.ae@SD" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Arabic",Fujairah TV (720p)
@@ -582,8 +574,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Arabic",Melody FM Jordan (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MelodyHits.ca@SD" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Arabic",Melody Hits (576p)
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 #EXTINF:-1 tvg-id="mfm.lb@HD" tvg-logo="https://www.mtv.com.lb/images/header/mfm-logo.svg" group-title="Arabic",mfm (1080p)
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionAsia.au@SD" tvg-logo="https://i.imgur.com/B5mKwF6.png" group-title="Arabic",Mission Asia (1080p)
@@ -672,8 +662,6 @@ https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa@SD" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="Arabic",Qatar Television 2 (1080p)
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuranRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Arabic",Quran Radio (1080p)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RabehSaqer.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="Arabic",Rabeh Saqer (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Arabic",Radio Albalad TV (720p)
@@ -768,7 +756,7 @@ https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahRadioQuran.ae@SD" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="Arabic",Sharjah Radio Quran (1080p)
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Arabic",Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae@SD" tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="Arabic",Sharjah TV (1080p)
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",Sky News Arabia (1080p)
@@ -802,10 +790,6 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa@SD" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="Arabic",Thikrayat TV (1080p)
 https://aloula-redirect.vercel.app/3/playlist.m3u8
-#EXTINF:-1 tvg-id="Thmanyah1.sa@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Arabic",Thmanyah 1 (1080p)
-https://dflive.app.tc/20.m3u8
-#EXTINF:-1 tvg-id="Thmanyah3.sa@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Arabic",Thmanyah 3 (1080p)
-https://dflive.app.tc/61.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Arabic",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm@SD" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="Arabic",Türkmenistan (406p) [Not 24/7]
@@ -2850,7 +2834,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="English",BBC Food (1080p)
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="English",BBC Four HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="English",BBC Four UK HD
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="English",BBC Four/CBeebies (1080p) [Geo-Blocked]
@@ -2863,111 +2847,111 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English",BBC News (1080p)
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English",BBC News Europe (1080p)
 http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@ChannelIslands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Channel Islands (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One East (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One East Midlands (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@EastMidlandsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One East Midlands (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One East Yorkshire (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One London (1080p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One North East (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbriaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One North East (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One North West (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthWestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One North West (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Northern Ireland HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Northern Ireland HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Scotland (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Scotland HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One South (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@SouthEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One South East (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@SouthWest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One South West (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Wales (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One West (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One West Midlands (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Yorks (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@YorkshireLincolnshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English",BBC One Yorkshire & Lincolnshire (1080p)
 http://92.114.85.72:8000/play/a0mp
 #EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" group-title="English",BBC Parliament (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" group-title="English",BBC RB 1 (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton2.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 2 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton3.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 3 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton4.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 4 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton5.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 5 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton6.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 6 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton7.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 7 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton8.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 8 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton9.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 9 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton10.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 10 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton11.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 11 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton12.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 12 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton13.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 13 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton14.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 14 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton15.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 15 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton16.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 16 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton17.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 17 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton18.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 18 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton19.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 19 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton20.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 20 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton21.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 21 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton22.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 22 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton23.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 23 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCRedButton24.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English",BBC Red Button 24 (1080p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="English",BBC Scotland (1080p)
 http://92.114.85.72:8000/play/a0mf
 #EXTINF:-1 tvg-id="BBCThree.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="English",BBC Three HD (720p)
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="English",BBC Three HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="English",BBC Three/CBBC (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English",BBC Two (1080p) [Geo-blocked]
@@ -2977,9 +2961,9 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English",BBC Two Northern Ireland (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English",BBC Two Northern Ireland HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English",BBC Two Wales (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCUHD1.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="English",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="BBCUHD2.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="English",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
@@ -3191,7 +3175,7 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-id="CaughtUpTV.ng@SD" tvg-logo="https://i.imgur.com/7jeoulU.png" group-title="English",Caught-Up TV (480p) [Not 24/7]
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="English",CBBC HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="CBRTDT.ca@SD" tvg-logo="https://i.imgur.com/ocq1x2B.png" group-title="English",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-id="CBXTDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png" group-title="English",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
@@ -3227,7 +3211,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="English",CBeebies Asia (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png" group-title="English",CBeebies HD (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="CBNFamily.us@SD" tvg-logo="https://i.imgur.com/wDPkKT1.png" group-title="English",CBN Family (1080p)
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBNGospel.vg@SD" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="English",CBN Gospel (720p)
@@ -5634,7 +5618,7 @@ https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ShalomWorldPrayer.us@SD" tvg-logo="https://i.imgur.com/uUrTto3.png" group-title="English",Shalom World Prayer (1080p)
 https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="English",Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="English",Sheffield Live TV (360p) [Not 24/7]
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us@SD" tvg-logo="https://i.imgur.com/TFxLj80.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="English",Shemaroo Bollywood (1080p)
@@ -6399,6 +6383,8 @@ http://103.250.28.74:8000/play/a00w/index.m3u8
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 #EXTINF:-1 tvg-id="KVTNDT251.us@HD" tvg-logo="https://i.imgur.com/CjKQuEP.png" group-title="English",VTN Victory Television Network (720p)
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="English",VTV1 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VyasChannel.in@SD" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="English",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="W14DKD141.us@HD" tvg-logo="https://i.imgur.com/TjQP7kS.png" group-title="English",W14DK-D 14.1 TV Delmarva
@@ -7650,7 +7636,7 @@ http://69.64.57.208/ortb/playlist.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf@SD" tvg-logo="https://i.imgur.com/OFZm8ic.png" group-title="Fulah",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="Gaelic",BBC Alba (1080p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="Gaelic",BBC Scotland (1080p)
 http://92.114.85.72:8000/play/a0mf
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es@SD" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="Galician",Galicia TV Europa (720p)
@@ -12569,10 +12555,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="Portuguese",NickOnline (576p)
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickOnlineMusic.br@HD" tvg-logo="https://x1co.com.br/musiclogo.png" group-title="Portuguese",NickOnline Music (720p) [Not 24/7]
-https://two.x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="https://x1co.com.br/logobob.png" group-title="Portuguese",NickOnline Spongebob (1080p) [Not 24/7]
-https://spongebobnew.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Portuguese",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickWeb.br" tvg-logo="https://i.ibb.co/Qvxbvk9B/20260422-174151.png" group-title="Portuguese",NickWeb (720p)
@@ -19218,10 +19200,16 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Vietnamese",Vietnam Today (1080p)
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Vietnamese",VTV1 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Vietnamese",VTV2 HD (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Vietnamese",VTV3 HD (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Vietnamese",VTV4 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Vietnamese",VTV5 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Vietnamese",VTV5 Tây Nam Bộ HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Vietnamese",VTV5 Tây Nguyên HD (1080p)
@@ -20999,6 +20987,8 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Qui Veut Gagner Des Millions La Chaîne (1080p)
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranRadio.sa@SD" tvg-logo="" group-title="Undefined",Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",QVC West (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",QVC's The Big Dish [Geo-blocked]

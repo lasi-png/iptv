@@ -3602,10 +3602,16 @@ http://103.250.28.74:8000/play/a00w/index.m3u8
 http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="VTV.mv@SD" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News",VTV (1080p) [Not 24/7]
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p) [Geo-blocked]
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Undefined",VTV5 Tây Nam Bộ HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Undefined",VTV5 Tây Nguyên HD (1080p)

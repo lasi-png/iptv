@@ -66,8 +66,6 @@ https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr@SD" tvg-logo="https://i.imgur.com/6twzd38.png" group-title="General",Alpha TV (1080p)
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQanat9.tr@SD" tvg-logo="https://i.imgur.com/HC91Mho.png" group-title="News",Alqanat9 TV (1080p)
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="Alsat.mk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png" group-title="General",Alsat [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 #EXTINF:-1 tvg-id="AltasTV.tr@SD" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="General",Altas TV (1080p)

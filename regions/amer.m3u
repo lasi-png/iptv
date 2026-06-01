@@ -3026,8 +3026,6 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="MelRadioTV.ec@SD" tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Entertainment",Mel Radio TV (360p)
 https://eu1.servers10.com:8081/8334/index.m3u8
-#EXTINF:-1 tvg-id="MelodyHits.ca@SD" tvg-logo="https://i.imgur.com/OOMkVrU.png" group-title="Music",Melody Hits (576p)
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasdelCorazon.co@SD" tvg-logo="https://i.imgur.com/sVLDzzM.png" group-title="Music",Memorias del Corazon (480p) [Geo-blocked]
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 #EXTINF:-1 tvg-id="MemoriasFMPopLatino.co@SD" tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png" group-title="Music",Memorias FM Pop Latino (480p) [Geo-blocked]
@@ -3397,10 +3395,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="Animation;Kids",NickOnline (576p)
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickOnlineMusic.br@HD" tvg-logo="https://x1co.com.br/musiclogo.png" group-title="Music",NickOnline Music (720p) [Not 24/7]
-https://two.x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="https://x1co.com.br/logobob.png" group-title="Animation;Kids",NickOnline Spongebob (1080p) [Not 24/7]
-https://spongebobnew.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Animation;Kids",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickWeb.br" tvg-logo="https://i.ibb.co/Qvxbvk9B/20260422-174151.png" group-title="Animation;Kids",NickWeb (720p)
