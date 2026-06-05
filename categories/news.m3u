@@ -1605,8 +1605,6 @@ https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (576p)
 https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
-#EXTINF:-1 tvg-id="TBSNewsCS.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/960px-TBS_News_2020_logo.png" group-title="News",TBS News (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="News",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TDMInformation.mo@SD" tvg-logo="https://i.imgur.com/h7HfsLx.png" group-title="News",TDM Info. Macau (720p) [Not 24/7]
