@@ -528,8 +528,8 @@ https://www.btv.ro/hls/banat-tv.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="General",Bangla TV (720p)
 https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (720p)
-https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="BaniVision.do@HD" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="General",Bani Vision (720p) [Not 24/7]
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="BaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png" group-title="General",Baran
@@ -1127,8 +1127,8 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
 #EXTINF:-1 tvg-id="Channel8.th@SD" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="General",Channel 8 (1080p) [Not 24/7]
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd@SD" tvg-logo="https://i.imgur.com/Xf5YuoE.png" group-title="General",Channel 9 (720p)
-https://tvsen6.aynaott.com/channel9/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.bd@SD" tvg-logo="https://i.imgur.com/Xf5YuoE.png" group-title="General",Channel 9 (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Adelaide" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="General",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Brisbane" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="General",Channel 9 Brisbane (720p) [Geo-blocked]
@@ -1152,8 +1152,8 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 https://tv.localstreamgh.com/Channel247/index.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr@SD" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General",Channel A [Geo-blocked]
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd@SD" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="General",Channel I (720p)
-https://tvsen6.aynaott.com/channeli/index.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd@SD" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="General",Channel I (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.lk@SD" tvg-logo="https://i.imgur.com/CqRSTdL.png" group-title="General",Channel One (720p)
 https://mini.allinonereborn.fun/tata.php?id=11589
 #EXTINF:-1 tvg-id="CHCOTV.ca@SD" tvg-logo="https://i.imgur.com/EpMawIy.png" group-title="General",CHCO-TV (720p) [Geo-blocked]
@@ -2859,8 +2859,8 @@ https://live.ntdtv.com/uwlive990/playlist.m3u8
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" group-title="General",NTN (1080i)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="General",NTV (720p)
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="General",NTV (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",NTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd

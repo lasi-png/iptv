@@ -3811,8 +3811,6 @@ https://newfhls.wns.live/hls/stream.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="News",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NewsWorld.pl@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld (1080p)
-https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="NewTV.pl@SD" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="General",NewTV (1080p)
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News",NH Niews (1080p)
@@ -7128,8 +7126,6 @@ https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Z.ua@SD" tvg-logo="https://i.imgur.com/E5aV5aa.png" group-title="Undefined",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 tvg-id="ZNation.pl@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="Undefined",Z Nation
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",Zagros (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="General",Zagros
