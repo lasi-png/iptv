@@ -268,6 +268,8 @@ https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="KAID45.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Education;Kids",Pluto TV Kids (720p)
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us@Brazil" tvg-logo="https://i.imgur.com/ZZuaiqb.png" group-title="Education",Pluto TV Minha Obsessão Favorita
 https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us@Brazil" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Education",Pluto TV Mistérios
@@ -280,6 +282,8 @@ https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="PSDTV.us@SD" tvg-logo="https://i.imgur.com/djT0Q8q.png" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-logo="https://i.imgur.com/0PkyJ3U.png" group-title="Education",Pronto-socorro: Histórias De Emergência
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola HD (1080p)

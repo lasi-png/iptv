@@ -147,6 +147,10 @@ https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",Bellavision (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" group-title="Entertainment",Best of Dr. Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us" tvg-logo="https://i.imgur.com/5kdG4Dm.png" group-title="Entertainment",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 #EXTINF:-1 tvg-id="BETClassicsPlutoTV.us@France" tvg-logo="https://i.imgur.com/pyqZgU7.png" group-title="Entertainment",BET Classics
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",BET Pluto TV
@@ -338,6 +342,8 @@ https://elec-en-xumo.otteravision.com/elec/en/elec_en.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="ElyTV.br@SD" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Entertainment",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="Enelpuntodemira.us" tvg-logo="https://i.imgur.com/E9grXd9.png" group-title="Entertainment",En el punto de mira
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 #EXTINF:-1 tvg-id="Energy.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="Entertainment",Energy (1080p)
 http://92.176.119.180:2095/play/a17a
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",ENT Channel (720p)
@@ -373,6 +379,8 @@ https://sb.err.ee/live/etvpluss.m3u8
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="Entertainment",EVI TV (720p)
 https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
+#EXTINF:-1 tvg-id="ExOnTheBeach.us" tvg-logo="https://i.imgur.com/bMs75oe.png" group-title="Entertainment",Ex On The Beach
+https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
 #EXTINF:-1 tvg-id="ExpressEntertainment.pk@SD" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr@SD" tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -428,8 +436,8 @@ https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 #EXTINF:-1 tvg-id="GeoKahani.pk@SD" tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Entertainment",Geo Kahani (576p)
 http://116.90.120.151:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="GeordieShore.us@Italy" tvg-logo="https://i.imgur.com/WOkqDRi.png" group-title="Entertainment",Geordie Shore
-https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
+#EXTINF:-1 tvg-id="GeordieShore.us" tvg-logo="https://i.imgur.com/WOkqDRi.png" group-title="Entertainment",Geordie Shore
+https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
 #EXTINF:-1 tvg-id="GETtv.do@SD" tvg-logo="" group-title="Entertainment",GET tv (1080p) [Not 24/7]
 https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Entertainment;Music",Gex TV (1080p)
@@ -467,6 +475,8 @@ https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8
 https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
 #EXTINF:-1 tvg-id="HappyChannel.ro@SD" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="Entertainment",Happy Channel
 https://hls.rundletv.eu.org/LIVE$HappyChannel/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-id="Heartland.us" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland
+https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8
 #EXTINF:-1 tvg-id="Heartland.us@Web" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 #EXTINF:-1 tvg-id="HiDost.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment",Hi Dost! (720p)
@@ -499,6 +509,8 @@ https://iptv.prosto.tv/ch2/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=9212
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/15235/index.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Entertainment",IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-id="IlBancodeiPugni.us" tvg-logo="https://i.imgur.com/NZDUlME.png" group-title="Entertainment",Il Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
 #EXTINF:-1 tvg-id="ImpactNetwork.us@SD" tvg-logo="https://i.imgur.com/57NH9sS.png" group-title="Entertainment",Impact Network (720p)
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe@SD" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Entertainment",Impacto Televisión (360p) [Not 24/7]
@@ -728,12 +740,16 @@ https://live-fi.tvkaista.net/ava/live.m3u8
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV HD (1080p)
 http://149.71.34.166:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="MTV.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV Pluto TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@Germany" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@Germany" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Entertainment",MTV Ridiculousness
-https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+#EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Entertainment",MTV Ridiculousness (720p)
+https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
 #EXTINF:-1 tvg-id="MVLaoTV.la@SD" tvg-logo="https://i.imgur.com/oVlQUKM.png" group-title="Entertainment",MV Lao TV
 https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MY5.uz@SD" tvg-logo="https://i.imgur.com/bjlzu5k.png" group-title="Entertainment",MY5 (1080p)
@@ -838,20 +854,26 @@ https://twohls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Entertainment",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PimpmyRide.us" tvg-logo="https://i.imgur.com/n9bK6f2.png" group-title="Entertainment",Pimp My Ride
+https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 #EXTINF:-1 tvg-id="PlayEntertainment.pk@SD" tvg-logo="https://i.imgur.com/BnNNDrE.png" group-title="Entertainment",Play Entertainment (576p)
 http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Entertainment",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimales.us" tvg-logo="https://i.imgur.com/P2jEmG1.png" group-title="Entertainment",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimation.us@UK" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVConspiracy.us@UK" tvg-logo="https://i.imgur.com/sr0kYSH.png" group-title="Entertainment",Pluto TV Conspiracy
 https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:-1 tvg-id="Dating.us" tvg-logo="https://i.imgur.com/VXaiLtt.png" group-title="Entertainment",Pluto TV Dating (720p)
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 tvg-id="PlutoTVGameShows.us@SD" tvg-logo="https://i.imgur.com/JXZEg2e.png" group-title="Entertainment",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReality.us@UK" tvg-logo="https://i.imgur.com/OvN7FCv.png" group-title="Entertainment",Pluto TV Reality
 https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.us@US" tvg-logo="https://i.imgur.com/OvN7FCv.png" group-title="Entertainment",Pluto TV Reality
-https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVReality.us" tvg-logo="https://i.imgur.com/OvN7FCv.png" group-title="Entertainment",Pluto TV Reality
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetro.us@Brazil" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Entertainment",Pluto TV Retrô
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Polimer TV (720p)
@@ -1053,8 +1075,8 @@ https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.
 https://streamer2.nexgen.bz/10-TNC/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD" tvg-logo="https://iili.io/JGqD21e.png" group-title="Documentary;Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="ThePriceIsRight.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png" group-title="Entertainment",The Price Is Right
-https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRight.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png" group-title="Entertainment",The Price is Right (720p)
+https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" tvg-logo="https://i.imgur.com/LuE8Wl4.png" group-title="Entertainment",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
 https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entertainment",This is Bulgaria HD (1080p)
@@ -1175,6 +1197,8 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTV2.es@SD" tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Entertainment",XPTV2 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-logo="https://i.imgur.com/MDHN2Vc.png" group-title="Entertainment",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (1080p) [Geo-blocked]
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir@SD" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV

@@ -498,8 +498,8 @@ https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=92
 http://185.81.240.65:15000/udp/233.233.233.39:12000
 #EXTINF:-1 tvg-id="FehervarTV.hu@SD" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="General",Fehérvár TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ (720p)
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ (720p)
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Sports",FIFA+ Women (720p)
@@ -825,8 +825,8 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="General",Moldova TV (1080p)
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-id="MonsterJam.pl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Undefined",Monster Jam (720p)
-https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.pl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Undefined",Monster Jam (720p)
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Music",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-id="MoozHits.ro@SD" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Music",Mooz Hits
@@ -973,12 +973,14 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua@SD" tvg-logo="https://i.imgur.com/SnljTbR.png" http-user-agent="curl/8.16.0" group-title="Legislative",Pershyi Zahidnyi (1080p)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Undefined",PFL MMA (720p)
-https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="PFLMMA.pl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Undefined",PFL MMA (720p)
+https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 #EXTINF:-1 tvg-id="PilisTV.hu@SD" tvg-logo="https://i.imgur.com/5L01wRi.png" group-title="General",PilisTV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/PilisTV/index.m3u8
 #EXTINF:-1 tvg-id="Pink.rs@SD" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined",Pink (720p)
 https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="PixelTV.pl" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" group-title="Animation;Kids",Pixel.tv (720p)
+https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="General",Planeta-RTR
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-logo="" group-title="Religious",Plovdivska Pravoslavna TV (1080p)
@@ -1754,8 +1756,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
 #EXTINF:-1 tvg-id="Z.ua@SD" tvg-logo="https://i.imgur.com/E5aV5aa.png" group-title="Undefined",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 tvg-id="ZNation.us@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="Series",Z Nation
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 tvg-id="ZNation.us" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="Series",Z Nation
+https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="Undefined",Zagorodnaya Zhizn
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZalaegerszegiTV.hu@SD" tvg-logo="https://i.imgur.com/MLVPf0i.png" group-title="Undefined",Zalaegerszegi TV (360p)

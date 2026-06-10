@@ -1061,8 +1061,8 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://mumt04.tangotv.in/MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Televisión (720p) [Not 24/7]
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Televisión (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it@SD" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="News",Minformo TV (720p)
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se@SD" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="News",Miracle TV (1080p)
@@ -1421,6 +1421,8 @@ https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
 https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="RajPariwar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="News",Raj Pariwar (576p)
 http://103.72.101.252:8080/live/533.m3u8
+#EXTINF:-1 tvg-id="NoticiasRCN.co" tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="News",RCN Noticias (720p)
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="News",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="News",RDN (1080p) [Not 24/7]
@@ -1551,6 +1553,8 @@ http://103.250.28.74:8000/play/a00v/index.m3u8
 https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="News",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNews.ie" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]

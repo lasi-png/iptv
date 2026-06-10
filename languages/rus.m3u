@@ -50,6 +50,8 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="BabyTime.ru@SD" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids;Music",Baby Time
 http://89.218.32.179:18000/play/a028
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Babyfirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md@SD" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="General",Bălţi TV (1080p) [Geo-blocked]
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by@SD" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="General",Belarus-1 (1080p)
