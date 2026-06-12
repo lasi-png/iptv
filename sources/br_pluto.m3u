@@ -233,7 +233,7 @@ https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="Kids",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Undefined",PFL MMA (720p)
+#EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-logo="" group-title="Undefined",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@Brazil" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="Animation",Pluto TV Anime
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
@@ -257,8 +257,6 @@ https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@Brazil" tvg-logo="https://i.imgur.com/9QTzDJG.png" group-title="Movies",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoria.us@SD" tvg-logo="https://i.imgur.com/sgAfqzK.png" group-title="Undefined",Pluto TV História
-https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@Brazil" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentary",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.us@Brazil" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Kids",Pluto TV Junior
@@ -271,6 +269,8 @@ https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us@Brazil" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Education",Pluto TV Mistérios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us@SD" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",Pluto TV MTV Classic (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatureza.us@Brazil" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Education",Pluto TV Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelas.us@SD" tvg-logo="https://i.imgur.com/R44LypS.png" group-title="Series",Pluto TV Novelas

@@ -5,7 +5,7 @@ https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alice Nevers
 https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Series",Andromeda
+#EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Series",Andromeda Italy (720p)
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Automoto
 https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
@@ -35,7 +35,7 @@ https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
 https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dynasty
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian (720p)
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Extreme Makeover Home Edition
 https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
@@ -219,7 +219,7 @@ https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="Thats70s.uk@HD" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music",That's 70s (720p)
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 tvg-id="Thats80s.uk@SD" tvg-logo="https://i.imgur.com/TdKuz1m.png" group-title="Music",That's 80s (720p)
+#EXTINF:-1 tvg-id="Thats80s.uk@SD" tvg-logo="" group-title="Music",That's 80s (720p)
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",That's 90s/00s (720p)
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8

@@ -173,8 +173,6 @@ https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 #EXTINF:-1 tvg-id="InazumaEleven.us@France" tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-id="KAID45.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Education;Kids",Pluto TV Kids (720p)
-https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="LasTortugasNinja.us@Spain" tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="Animation",Las Tortugas Ninja (720p)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-id="LosarchivosdelFBI.us@Spain" tvg-logo="https://i.imgur.com/eDCdJO2.png" group-title="Series",Los archivos del FBI
@@ -209,8 +207,12 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD" tvg-logo="https://i.imgur.com/u7DOoBK.png" group-title="Undefined",El Reino Infantil
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoria.us@SD" tvg-logo="https://i.imgur.com/sgAfqzK.png" group-title="Undefined",Pluto TV Historia (720p)
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@Spain" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="Kids",Pluto TV Kids Spain (720p)
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVLosnuevosdetectives.us@SD" tvg-logo="https://i.imgur.com/Iru8tqj.png" group-title="Undefined",Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeries.us@UK" tvg-logo="https://i.imgur.com/7ouD3E6.png" group-title="Series",Pluto TV Series
